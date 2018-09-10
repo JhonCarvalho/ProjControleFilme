@@ -1,0 +1,14 @@
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\bin\Debug\Dados.dll.config
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\bin\Debug\Dados.dll
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\bin\Debug\Dados.pdb
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\bin\Debug\Entidade.dll
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\bin\Debug\EntityFramework.dll
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\bin\Debug\Entidade.pdb
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\bin\Debug\EntityFramework.xml
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\obj\Debug\Dados.dll
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\obj\Debug\Dados.pdb
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\bin\Debug\Entidade.dll.config
+C:\VitorRebello\ProjControleFilme\ProjControleFilme\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
